@@ -1,4 +1,4 @@
-﻿# Fur Clothing Mod
+﻿# Beachcombing Adjustments
 
 This mod for *The Long Dark* allows you to change the loot table for beachcombing. Requires ModSettings.
 
