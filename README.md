@@ -1,6 +1,6 @@
 ﻿# Fur Clothing Mod
 
-This mod for *The Long Dark* allows you to change the in-game statistics of the craftable fur clothing. Requires ModSettings.
+This mod for *The Long Dark* allows you to change the loot table for beachcombing. Requires ModSettings.
 
 ## Installation
 
