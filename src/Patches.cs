@@ -14,6 +14,7 @@ namespace BeachcombingAdjustments
         private const string REVOLVER_NAME = "GEAR_Revolver";
         private const string REVOLVER_AMMO_NAME = "GEAR_RevolverAmmoSingle";
         private const string COFFEE_NAME = "GEAR_CoffeeTin";
+        private const string HERBAL_TEA_NAME = "GEAR_GreenTeaPackage";
         private const string E_STIM_NAME = "GEAR_EmergencyStim";
         private const string REISHI_NAME = "GEAR_ReishiMushroom";
         private const string ROSE_HIPS_NAME = "GEAR_RoseHip";
@@ -50,11 +51,12 @@ namespace BeachcombingAdjustments
                 if(__instance.name == LOOT_TABLE_NAME)
                 {
                     LootTableUtils.AddOrRemoveEntryFromLootTable(__instance, Settings.options.reishiMushrooms, REISHI_NAME, 6);
-                    LootTableUtils.AddOrRemoveEntryFromLootTable(__instance, Settings.options.roseHips, ROSE_HIPS_NAME, 6);
+                    LootTableUtils.AddOrRemoveEntryFromLootTable(__instance, Settings.options.roseHips, ROSE_HIPS_NAME, 9);
                     LootTableUtils.AddOrRemoveEntryFromLootTable(__instance, Settings.options.rifle, RIFLE_NAME, 1);
                     LootTableUtils.AddOrRemoveEntryFromLootTable(__instance, Settings.options.revolver, REVOLVER_NAME, 1);
                     LootTableUtils.AddOrRemoveEntryFromLootTable(__instance, Settings.options.revolverAmmo, REVOLVER_AMMO_NAME, 3);
                     LootTableUtils.AddOrRemoveEntryFromLootTable(__instance, Settings.options.coffee, COFFEE_NAME, 1);
+                    LootTableUtils.AddOrRemoveEntryFromLootTable(__instance, Settings.options.herbalTea, HERBAL_TEA_NAME, 1);
                     LootTableUtils.AddOrRemoveEntryFromLootTable(__instance, Settings.options.estim, E_STIM_NAME, 1);
                 }
             }

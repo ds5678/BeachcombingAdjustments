@@ -15,9 +15,10 @@ On Interloper, rather than creating a separate set of loot tables, certain forbi
 5.  Revolver            - See above. Only applies to games where revolvers can spawn.
 6.  Revolver Ammo       - Slightly more probable than rifle ammo. Only applies to games where revolvers can spawn.
 7.  Coffee Tin          - A single tin of coffee. Might be in a ruined state if spawned late-game.
-8.  E-Stim              - 1 E-Stim. Tied with several others (including the rifle and revolver) for being the least probable item.
-9.  Reishi Mushroom     - Reishi Mushrooms wash up on shore. Same probability as birch bark.
-10. Rose Hip            - A single rose hip.
+8.  Box of Herbal Tea   - A single box of herbal tea bags. Might be in a ruined state if spawned late-game.
+9.  E-Stim              - Tied with several others (including the rifle and revolver) for being the least probable item.
+10. Reishi Mushroom     - Reishi Mushrooms wash up on shore. Same probability as birch bark.
+11. Rose Hip            - A single rose hip.
 
 ## Installation
 
@@ -28,5 +29,4 @@ On Interloper, rather than creating a separate set of loot tables, certain forbi
 
 ## Potential Future Improvements
 
-1.  Box of Herbal Tea - If someone sends me the gear name (the one that works in the dev console), I'll add it.
-2.  8 Rose Hips instead of 1 - This may be difficult; I make no promises.
+1.  8 Rose Hips instead of 1 - This may be difficult; I make no promises.

@@ -42,6 +42,10 @@ namespace BeachcombingAdjustments
         [Description("Adds tins of Coffee to the loot table on all game modes")]
         public bool coffee = false;
 
+        [Name("Herbal Tea")]
+        [Description("Adds boxes of Herbal Tea to the loot table on all game modes")]
+        public bool herbalTea = false;
+
         [Name("E-Stims")]
         [Description("Adds E-Stims to the loot table on all game modes")]
         public bool estim = false;
